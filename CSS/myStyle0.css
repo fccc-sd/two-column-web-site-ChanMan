@@ -47,7 +47,7 @@ nav li
 
 aside
 {
-    background-color:rgb(107, 7, 7); 
+    background-color:rgb(255, 136, 0); 
     width: 200px; 
     margin: 0px 10px 10px 0px; 
     height: 320px; 
@@ -58,8 +58,7 @@ aside
 
 section
 {
-    background-color:rgb(20, 156, 15); 
-    color: rgb(255, 255, 0); 
+    background-color:rgb(255, 136, 0); 
     width: 710px; 
     margin: 0px 0px 10px 0px; 
     height: 320px;
@@ -74,8 +73,8 @@ section table{
 
 footer
 {
-    background-color:rgb(25, 0, 255); 
-    color: rgb(250, 113, 250); 
+    background-color:rgb(255, 136, 0); 
+    color: rgb(255, 251, 3); 
     clear: both; 
     padding: 10px; 
     height: 110px; 
