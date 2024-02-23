@@ -1,0 +1,98 @@
+*
+{
+    padding: 10px; 
+}
+body 
+{
+    background-color: red; 
+}
+.red
+{
+    background-color: red; 
+}
+.orange
+{
+    background-color: orange; 
+}
+.yellow
+{
+    background-color: yellow; 
+}
+.green
+{
+    background-color: green; 
+}
+.blue
+{
+    background-color: blue; 
+}
+.indigo
+{
+    background-color: indigo; 
+}
+.kirby
+{
+    background-color: rgb(250, 1, 175); 
+}
+.title 
+{
+    text-align: center; 
+}
+.container_12 
+{
+    background-color: black; 
+    padding: 20px;
+}
+header 
+{
+    color: rgb(255, 255, 0); 
+    height: 200px;
+    margin: 10px auto; 
+}
+aside 
+{
+    height: 400px; 
+    width: 960px; 
+    margin: 10px auto; 
+} 
+section 
+{ 
+    height: 400px; 
+    margin: 10px auto; 
+}
+footer 
+{
+    height: 310px; 
+    margin: 10px auto; 
+}
+p
+{
+    font-size: medium;
+}
+nav a:link {
+    color:rgb(255, 166, 0)
+}
+nav a:visited {
+    color:rgb(255, 166, 0); 
+}
+a:link {
+    color:white; 
+}
+a:visited {
+    color:white; 
+}
+nav
+{
+    background-color:rgb(255, 251, 0); 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    margin-top: 10px; 
+}
+
+nav li
+{
+    display: inline; 
+    list-style-type: none; 
+    padding-right: 40px; 
+
+}
